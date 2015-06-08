@@ -1,6 +1,6 @@
 {
-  "name": "Unicodefaces",
-  "description": "A context menu that makes it easy to copy unicodefaces to the clipboard.",
+  "name": "Unicodefac.es",
+  "description": "A context menu that makes it easy to copy unicode faces to the clipboard.",
   "version": "0.6",
   "permissions": ["contextMenus"],
   "background": {
